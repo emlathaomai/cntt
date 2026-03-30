@@ -4,6 +4,8 @@ using System.Diagnostics;
 // So sanh giua Linear Search va Binary Search tren 1 mang 10 trieu phan tu
 class Program
 {
+
+
     static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
