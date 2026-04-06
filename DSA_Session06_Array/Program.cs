@@ -54,7 +54,6 @@ class Program
         } while (choice != 0);
     }
 
-
     // --- CAC HAM XU LY NGHIEP VU ---
 
     static void GenerateRandomArray()
